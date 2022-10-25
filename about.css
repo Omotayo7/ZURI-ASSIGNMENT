@@ -1,0 +1,17 @@
+*{
+  margin: 1px;
+  padding: 1px;
+}
+body{
+  background: rgb(135, 180, 232);
+}
+hr{
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solidcolor;
+  border-width: 4px;
+}
+}

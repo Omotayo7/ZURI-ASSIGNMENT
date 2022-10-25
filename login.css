@@ -1,0 +1,15 @@
+*{
+    margin: auto;
+    padding: 0%;
+}
+body{
+    background-color: rgb(177, 121, 126);
+    color: azure;
+}
+.button {
+    color: rgb(4, 4, 194);
+    box-shadow: inset;
+    margin: 2px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
